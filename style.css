@@ -1,0 +1,44 @@
+html{
+    background-color: antiquewhite;
+}
+h1{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+#div1{
+    background-color: burlywood;
+    width: 400px;
+    height: 400px;
+}
+#img1{
+    border: 5px solid white;
+    width: 390px;
+    height: 300px;
+}
+.group1{
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+#div2{
+    margin-left: 400px;
+    background-color: burlywood;
+    width: 400px;
+    height: 400px;
+}
+#img2{
+    border: 5px solid white;
+    width: 390px;
+    height: 300px;
+}
+#div3{
+    background-color: burlywood;
+    width: 400px;
+    height: 400px;
+}
+#img3{
+    border: 5px solid white;
+    width: 390px;
+    height: 300px;
+}
